@@ -1,0 +1,143 @@
+{
+  "countries": [
+    {
+      "_id": "1",
+      "name": "India",
+      "states": [
+        {
+          "_id": "1",
+          "name": "Maharashtra",
+          "cities": [
+            {"_id": "1", "name": "Mumbai"},
+            {"_id": "2", "name": "Pune"},
+            {"_id": "3", "name": "Nagpur"},
+            {"_id": "4", "name": "Nashik"}
+          ]
+        },
+        {
+          "_id": "2",
+          "name": "Gujarat",
+          "cities": [
+            {"_id": "5", "name": "Ahmedabad"},
+            {"_id": "6", "name": "Surat"},
+            {"_id": "7", "name": "Vadodara"},
+            {"_id": "8", "name": "Rajkot"}
+          ]
+        },
+        {
+          "_id": "3",
+          "name": "Delhi",
+          "cities": [
+            {"_id": "9", "name": "New Delhi"},
+            {"_id": "10", "name": "Delhi"}
+          ]
+        },
+        {
+          "_id": "4",
+          "name": "Karnataka",
+          "cities": [
+            {"_id": "11", "name": "Bangalore"},
+            {"_id": "12", "name": "Mysore"},
+            {"_id": "13", "name": "Hubli"}
+          ]
+        },
+        {
+          "_id": "5",
+          "name": "Tamil Nadu",
+          "cities": [
+            {"_id": "14", "name": "Chennai"},
+            {"_id": "15", "name": "Coimbatore"},
+            {"_id": "16", "name": "Madurai"}
+          ]
+        },
+        {
+          "_id": "6",
+          "name": "Rajasthan",
+          "cities": [
+            {"_id": "17", "name": "Jaipur"},
+            {"_id": "18", "name": "Jodhpur"},
+            {"_id": "19", "name": "Udaipur"}
+          ]
+        },
+        {
+          "_id": "7",
+          "name": "Uttar Pradesh",
+          "cities": [
+            {"_id": "20", "name": "Lucknow"},
+            {"_id": "21", "name": "Kanpur"},
+            {"_id": "22", "name": "Agra"},
+            {"_id": "23", "name": "Varanasi"}
+          ]
+        },
+        {
+          "_id": "8",
+          "name": "West Bengal",
+          "cities": [
+            {"_id": "24", "name": "Kolkata"},
+            {"_id": "25", "name": "Howrah"},
+            {"_id": "26", "name": "Durgapur"}
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "name": "USA",
+      "states": [
+        {
+          "_id": "9",
+          "name": "California",
+          "cities": [
+            {"_id": "27", "name": "Los Angeles"},
+            {"_id": "28", "name": "San Francisco"},
+            {"_id": "29", "name": "San Diego"},
+            {"_id": "30", "name": "Sacramento"}
+          ]
+        },
+        {
+          "_id": "10",
+          "name": "New York",
+          "cities": [
+            {"_id": "31", "name": "New York City"},
+            {"_id": "32", "name": "Buffalo"},
+            {"_id": "33", "name": "Rochester"}
+          ]
+        },
+        {
+          "_id": "11",
+          "name": "Texas",
+          "cities": [
+            {"_id": "34", "name": "Houston"},
+            {"_id": "35", "name": "Dallas"},
+            {"_id": "36", "name": "Austin"},
+            {"_id": "37", "name": "San Antonio"}
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "name": "UK",
+      "states": [
+        {
+          "_id": "12",
+          "name": "England",
+          "cities": [
+            {"_id": "38", "name": "London"},
+            {"_id": "39", "name": "Manchester"},
+            {"_id": "40", "name": "Birmingham"}
+          ]
+        },
+        {
+          "_id": "13",
+          "name": "Scotland",
+          "cities": [
+            {"_id": "41", "name": "Edinburgh"},
+            {"_id": "42", "name": "Glasgow"}
+          ]
+        }
+      ]
+    }
+  ]
+}
+
